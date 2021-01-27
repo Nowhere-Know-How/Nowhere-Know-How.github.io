@@ -28,6 +28,7 @@ analytics: # Google Analytics
 markdown: kramdown
 remote_theme: hydecorp/hydejack@v9.0.5
 plugins:
+  - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
