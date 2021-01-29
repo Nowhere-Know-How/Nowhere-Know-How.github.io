@@ -28,7 +28,7 @@ description:           >
   This is blog for that serves new content developed by the NoWhere-Know-How team.
 
 # A shorter description for the sidebar.
-tagline:               20210128-001 #NoWhere-Know-How Games
+tagline:               20210128-002 #NoWhere-Know-How Games
 
 # A list of keywords for your blog
 keywords:              []
@@ -50,6 +50,8 @@ author:
 menu:
   - title:             PrototypePipeline
     url:               /PrototypePipeline/
+  - title:             Example
+    url:               /example/
   - title:             AnotherGameForExample
     url:               /AnotherGameForExample/
   - title:             About
