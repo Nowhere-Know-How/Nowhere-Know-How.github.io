@@ -10,11 +10,11 @@ slug: PrototypePipeline
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/PrototypePipeline.md` to learn how to create your own.
+  This is a prototype placeholder game for developing our production process.
+  Tutorial coming soon!
 
 # (Optional) You can disable grouping posts by date.
-# no_groups: true
+no_groups: true
 
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
