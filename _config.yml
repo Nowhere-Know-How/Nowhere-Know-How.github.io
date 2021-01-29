@@ -202,7 +202,7 @@ kramdown:
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, random, comments]
+  post_addons:         [comments]
 
   # Configure the order of complementary content on project pages
   project_addons:      [about, newsletter, other, comments]
