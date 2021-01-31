@@ -155,6 +155,8 @@ menu:
   url: /anothergameforexample/
 - title: About
   url: /about/
+- title: Awesome-New-Game
+  url: /awesome-new-game/
 optional_front_matter:
   remove_originals: true
 paginate: 10
