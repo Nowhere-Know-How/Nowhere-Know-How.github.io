@@ -149,6 +149,8 @@ legal:
   url: /CHANGELOG/
 logo: /assets/img/logo.png
 menu:
+- title: Tapioca
+  url: /tapioca/
 - title: About
   url: /about/
 optional_front_matter:
