@@ -149,12 +149,6 @@ legal:
   url: /CHANGELOG/
 logo: /assets/img/logo.png
 menu:
-- title: PipelinePrototype
-  url: /pipelineprototype/
-- title: AnotherGameForExample
-  url: /anothergameforexample/
-- title: Awesome-New-Game
-  url: /awesome-new-game/
 - title: About
   url: /about/
 optional_front_matter:
