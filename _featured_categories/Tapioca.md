@@ -10,8 +10,7 @@ slug: Tapioca
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a AnotherGameForExample to demonstrate adding new games to our blog.
-  Tutorial coming soon!
+  Downloads for pre-release builds of Project Tapioca.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
