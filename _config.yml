@@ -153,6 +153,8 @@ menu:
   url: /tutorials/
 - title: Tapioca
   url: /tapioca/
+- title: testing
+  url: /testing/
 - title: About
   url: /about/
 optional_front_matter:
