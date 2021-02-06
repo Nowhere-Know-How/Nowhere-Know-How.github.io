@@ -19,5 +19,5 @@ no_groups: true
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 ---
-# HEADER [Link](https://github.com/Nowhere-Know-How/testing-Releases/releases/download/latest/testing_2021-02-05-10.zip)
-**BOLDED** [Link](https://github.com/Nowhere-Know-How/testing-Releases/releases/download/latest/testing_2021-02-05-10.zip)
+
+**Get the latest release for testing [here](https://github.com/Nowhere-Know-How/testing-Releases/releases/download/latest/testing_2021-02-05-10.zip)**
