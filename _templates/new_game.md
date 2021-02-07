@@ -10,8 +10,7 @@ slug: $TITLE
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a AnotherGameForExample to demonstrate adding new games to our blog.
-  Tutorial coming soon!
+  This is the release page for $TITLE by the $ORG team!
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
@@ -19,3 +18,5 @@ no_groups: true
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 ---
+
+**Get the latest release for $TITLE [here](https://github.com/$ORG/$TITLE-Releases/releases/download/latest/$TITLE_latest.zip)**
