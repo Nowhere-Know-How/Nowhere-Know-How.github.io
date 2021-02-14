@@ -151,8 +151,6 @@ logo: /assets/img/logo.png
 menu:
 - title: Tutorials
   url: /tutorials/
-- title: Tapioca
-  url: /tapioca/
 - title: About
   url: /about/
 optional_front_matter:
