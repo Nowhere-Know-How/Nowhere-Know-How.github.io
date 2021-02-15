@@ -1,5 +1,5 @@
 accent_color: rgb(79,177,186)
-accent_image: /assets/img/sidebar-bg1.jpg
+accent_image: /assets/img/sidebar-bg.jpg
 author:
   email: nwkhteam@gmail.com
   name: NoWhere Know-How
@@ -113,7 +113,7 @@ jekyll_compose:
 
         '
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/sidebar-bg1.jpg
       layout: post
     posts:
       description: 'A short ~160 character description of your post for search engines,
@@ -121,7 +121,7 @@ jekyll_compose:
 
         '
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/sidebar-bg1.jpg
       layout: post
     projects:
       description: 'A short ~160 character description of your post for search engines,
@@ -129,7 +129,7 @@ jekyll_compose:
 
         '
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/sidebar-bg1.jpg
       layout: project
       links:
       - title: Project Link
